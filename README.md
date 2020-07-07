@@ -1,2 +1,1 @@
-# timperrett
-Profile readme
+Hi there, i'm Timothy: an engineer, author and speaker originally from the marvellous west-country of England (although I have since escaped to sunnier climbs, and now live in California). Besides working with technology of all kinds, I am hugely into climbing, backpacking, skiing and traveling. In recent years I have been exceedingly fortunate and was able to travel the globe; from Europe to Asia and the antipodean, right across to the USA. 
